@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/c/Users/з/Documents/otel-nebo/css\" \"/c/Users/з/Documents/otel-nebo/js\" \"/c/Users/з/Documents/otel-nebo/assets/photos\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\з\\Documents\\otel-nebo"
+    ]
+  }
+}
